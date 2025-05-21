@@ -176,7 +176,7 @@ const Form: React.FC = () => {
                 </div>
                 <div className="">
                   <h4 className="font-semibold text-lg text-white ">Email Us</h4>
-                  <p className=" mt-1 text-white text-sm md:test-base  ">sales@acesoft.in</p>
+                  <p className=" mt-1 text-white text-sm md:text-base  ">sales@acesoft.in</p>
                 </div>
               </div>
               
@@ -186,8 +186,8 @@ const Form: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-lg text-white ">Call Us</h4>
-                  <p className=" mt-1 text-white text-sm md:test-base ">+91 9840137210</p>
-                  <p className="opacity-90 text-white text-sm md:test-base ">Mon-sat from 10am to 6:30pm</p>
+                  <p className=" mt-1 text-white text-sm md:text-base ">+91 9840137210</p>
+                  <p className="opacity-90 text-white text-sm md:text-base ">Mon-sat from 10am to 6:30pm</p>
                 </div>
               </div>
               
