@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { SiMoneygram } from 'react-icons/si';
+// import { SiMoneygram } from 'react-icons/si';
 import { LuSquareArrowOutUpRight } from 'react-icons/lu';
 
 interface Feature {
